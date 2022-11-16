@@ -1,0 +1,1 @@
+universe.sql file for freecodecamp solution of celestial bodies database
